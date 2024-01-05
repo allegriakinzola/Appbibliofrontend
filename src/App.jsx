@@ -6,6 +6,7 @@ function App() {
         <p>my app</p>
     </div>
   )
+  
 }
 
 export default App
