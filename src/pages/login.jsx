@@ -1,6 +1,6 @@
 export function Login(){
     return(
-        <div>
+        <div className="login">
             <p>ceci est ma page login</p>
         </div>
     )
