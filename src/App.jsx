@@ -1,12 +1,12 @@
+import { Login } from "./pages/login";
+import './styles/style.scss';
 
 function App() {
-
   return (
     <div>
-        <p>my app</p>
+        <Login/>
     </div>
   )
-  
 }
 
 export default App
